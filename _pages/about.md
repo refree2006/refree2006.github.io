@@ -58,6 +58,7 @@ These projects are important steps where I moved from “reading about models”
 
 - **2025 Aug** — Won **National Second Prize** in the RAICM Robot Developer Competition (Programming Skills track).  
 - **2025 Aug** — Won **Provincial Gold Award** in the China International College Students’ Innovation Competition .  
+- **2025 Jun** — Joined the **Computer Vision and Artificial Intelligence Laboratory** under the supervision of **Prof. Huafeng Li** .
 - **2025 Jun** — Won **National Third Prize** in the Lanqiao Cup , C++ Group B.  
 - **2025 May** — Won **National Third Prize** in the China Collegiate Computing Competition – Group Programming Ladder Tournament “Huashan Sword Fight” Division .  
 
