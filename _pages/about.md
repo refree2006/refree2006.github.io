@@ -10,12 +10,12 @@ redirect_from:
 ## About Me
 
 Hi, I'm **Chengrui Wang (王成瑞)**.  
-I am a first-year undergraduate student (Class of 2024) majoring in Robotics Engineering at **Kunming University of Science and Technology (KUST)**. I am currently learning and doing early-stage research in the team led by **Prof. Huafeng Li (李华锋)**.
+I am a undergraduate student (Class of 2024) majoring in Robotics Engineering at **Kunming University of Science and Technology (KUST)**. I am currently learning and doing early-stage research in the team led by **Prof. Huafeng Li (李华锋)**.
 
-My current technical focus is on **infrared image super-resolution** (红外图像超分辨率重建): how to recover higher-resolution, more detailed thermal imagery from limited sensor data.
+My current technical focus is on **infrared image super-resolution** : how to recover higher-resolution, more detailed thermal imagery from limited sensor data.
 
-Beyond that, I am actively exploring:
-- **Embodied Intelligence** (具身智能): perception + control for physical agents/robots.
+Beyond that, I am also actively exploring:
+- **Embodied Intelligence** : perception + control for physical agents/robots.
 - **AI for Science**: using machine learning as a tool to help scientific discovery and engineering systems.
 
 I’m still early in my research journey, but I like building things that actually run — models, demos, and pipelines that produce visible results rather than just staying on paper.
@@ -57,11 +57,11 @@ These projects are important steps where I moved from “reading about models”
 ## News / Achievements
 
 - **2025 Aug** — Won **National Second Prize** in the RAICM Robot Developer Competition (Programming Skills track).  
-- **2025 Aug** — Won **Provincial Gold Award** in the China International College Students’ Innovation Competition (中国国际大学生创新大赛 省级金奖).  
-- **2025 Jun** — Won **National Third Prize** in the Lanqiao Cup (蓝桥杯全国软件和信息技术专业人才大赛), C++ Group B.  
-- **2025 May** — Won **National Third Prize** in the China Collegiate Computing Competition – ICPC Ladder Tournament “Huashan Sword Fight” Division (中国高校计算机大赛-团体程序设计天梯赛“华山论剑”组).  
+- **2025 Aug** — Won **Provincial Gold Award** in the China International College Students’ Innovation Competition .  
+- **2025 Jun** — Won **National Third Prize** in the Lanqiao Cup , C++ Group B.  
+- **2025 May** — Won **National Third Prize** in the China Collegiate Computing Competition – Group Programming Ladder Tournament “Huashan Sword Fight” Division .  
 
-These awards reflect both programming ability (C++ / algorithmic thinking) and applied robotics/engineering ability.
+These awards reflect programming skills (C++/algorithmic thinking), applied robotics/engineering skills, and teamwork skills.
 
 ---
 
