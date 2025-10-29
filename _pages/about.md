@@ -40,7 +40,7 @@ I’m still early in my research journey, but I like building things that actual
 
 ### Course & Self-Study Foundations
 - Completed the **CS231N (Convolutional Neural Networks for Visual Recognition)** 2024 coursework, building a solid base in deep learning for computer vision.
-- Studied fundamental deep learning concepts by following the “Deep Learning 入门” (a.k.a. 鱼书), and implemented a handwritten digit recognition model from scratch.
+- Studied fundamental deep learning concepts by following the “Deep Learning from Scratch: Theory and Implementation with Python” , and implemented a handwritten digit recognition model from scratch.
 
 ### Model Reproduction and Practice
 - **U-Net**  
